@@ -36,3 +36,6 @@ for i in fruits:
 
 for a in fruits:
     print(a,end=",") #print all in the same line
+
+
+#sets cannot have duplicates entries, but they are similar to {} dict, tuple()
