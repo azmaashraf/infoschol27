@@ -29,8 +29,7 @@ multi_ab = a*b
 #SCREAMING_CASE
 
 
-#using these conditions if, for loop and while conditions  print 1 to 100 and hackerarng=k questions 
-#print start pyramid
+
 
 
 

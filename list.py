@@ -20,7 +20,7 @@
 # fruits.append("banana")
 # print(fruits)
 
-# fruits.pop(3)
+# fruits.pop(3) 
 # print(fruits)
 
 
@@ -30,12 +30,12 @@
 # fruits.clear()
 # print(fruits)
 
-fruits = ["apple","orange","banana",1,2,3,True,"kiwi"]
-for i in fruits:
-    print(i)   #print line by line in dif line
+# fruits = ["apple","orange","banana",1,2,3,True,"kiwi"]
+# for i in fruits:
+#     print(i)   #print line by line in dif line
 
-for a in fruits:
-    print(a,end=",") #print all in the same line
-
+# for a in fruits:
+#     print(a,end=" ") #print all in the same line
 
 #sets cannot have duplicates entries, but they are similar to {} dict, tuple()
+
